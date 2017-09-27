@@ -13,4 +13,4 @@ Purpose of this repo is to kickoff an LSTM exploration project for KPN Data Scie
 ## Prerequisites
 
 * Have a keras / tensorflow environment available to start in a virtual environment
-** [Guide for inspiration](https://gist.github.com/pumpikano/24b55447ef8b2d8f5c4d)
+  * [Guide for inspiration](https://gist.github.com/pumpikano/24b55447ef8b2d8f5c4d)
